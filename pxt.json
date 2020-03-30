@@ -2,8 +2,7 @@
     "name": "Maze",
     "dependencies": {
         "device": "*",
-        "animation": "*",
-        "darts": "*"
+        "animation": "*"
     },
     "description": "",
     "files": [
