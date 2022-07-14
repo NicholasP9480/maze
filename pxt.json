@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*",
-        "color-coded-tilemap": "*"
+        "animation": "*"
     },
     "files": [
         "main.blocks",
